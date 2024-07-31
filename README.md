@@ -18,12 +18,15 @@ Finally we made it!!!
 ## Linear Regression
 
 Model Score: 73.1% Accuracy
+
 Training Accuracy: 72.9% Accuracy
+
 Testing Accuracy: 73.1% Accuracy
 
 ## Random Forest Regressor
 
 Training Accuracy: 99.9% Accuracy.
+
 Testing Accuracy: 99.8% Accuracy
 
 # Conclusion:
