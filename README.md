@@ -11,22 +11,22 @@ A model like this would be very valuable for a real state agent who could make u
 1. [Github Account](https://github.com)
 3. [VSCodeIDE](https://code.visualstudio.com/)
 
-## Prediction and Final Score:
+# Prediction and Final Score:
 
 Finally we made it!!!
 
-# Linear Regression
+## Linear Regression
 
 Model Score: 73.1% Accuracy
 Training Accuracy: 72.9% Accuracy
 Testing Accuracy: 73.1% Accuracy
 
-# Random Forest Regressor
+## Random Forest Regressor
 
 Training Accuracy: 99.9% Accuracy.
 Testing Accuracy: 99.8% Accuracy
 
-## Conclusion:
+# Conclusion:
 
 From the Exploratory Data Analysis, we could generate insight from the data. How each of the features relates to the target. Also, it can be seen from the evaluation of three models that Random Forest Regressor performed better than Linear Regression.
 
